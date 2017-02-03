@@ -1,6 +1,10 @@
-# Directories
+# Codeblocks spec.
 bin
 obj
+*.layout
+
+# Log
+log.txt
 
 # Prerequisites
 *.d
